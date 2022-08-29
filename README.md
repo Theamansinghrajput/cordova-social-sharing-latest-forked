@@ -1,3 +1,4 @@
+Change this files on npm_modules after installing this plugin
 # PhoneGap / Cordova Social Sharing plugin
 
 [![NPM version][npm-image]][npm-url]
